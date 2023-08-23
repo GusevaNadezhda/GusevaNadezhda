@@ -79,9 +79,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gusevann)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph=gusevann=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusevann&theme=dracula" title="statistica" alt="statistica" width="1500" height="500"/>&nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gusevann&theme=gruvbox&exclude=JavaScript, react, typescript,html, css" title="statistica" alt="statistica" width="500" height="500"/>&nbsp;
 </div>
 
