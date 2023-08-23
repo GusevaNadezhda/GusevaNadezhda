@@ -81,5 +81,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph=gusevann=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusevann&theme=dracula" title="statistica" alt="statistica" width="500" height="150"/>&nbsp;
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusevann&theme=dracula" title="statistica" alt="statistica" width="1000" height="300"/>&nbsp;
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusevann&theme=dracula&exclude=JavaScript, react, typescript,html, css"" title="statistica" alt="statistica" width="500" height="500"/>&nbsp;
 </div>
