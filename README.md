@@ -79,12 +79,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gusevann)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?gusevann=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={gusevann}&theme={dracula}
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusevann&theme=dracula
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph=gusevann=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={gusevann}&theme={dracula}" title="statistica" alt="statistica" width="100" height="50"/>&nbsp;
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusevann&theme=dracula" title="statistica" alt="statistica" width="100" height="50"/>&nbsp;
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gusevann&theme=dracula" title="statistica" alt="statistica" width="500" height="150"/>&nbsp;
 </div>
