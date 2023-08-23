@@ -11,7 +11,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :telescope: Закончила курс по базовой верстке
+- :telescope: Завершила курс по базовой вёрстке!
 
 - :seedling: Завершила курсы по основам Java-Script!
 
@@ -80,3 +80,6 @@
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gusevann)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?gusevann=anuraghazra&show_icons=true&theme=radical)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?gusevann=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api.gusevann.anuraghazra&hide=contribs,prs)
