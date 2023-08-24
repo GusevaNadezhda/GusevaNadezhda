@@ -51,7 +51,7 @@
 </div>
 
 ### Инструменты
-<div align="center">  
+<div>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a> 
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a> 
@@ -99,7 +99,7 @@
 <br/>  
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gusevanadezhda)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gusevann)
 
 <br/>  
 
