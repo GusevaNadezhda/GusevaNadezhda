@@ -53,6 +53,8 @@
 ### Инструменты
 <div>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
+<a href="https://www.adobe.com/ru/products/photoshop.html" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/123px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe_Photoshop" height="50" /></a> 
+<a href="https://www.adobe.com/ru/products/illustrator.html" target="_blank"><img style="margin: 30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/123px-Adobe_Illustrator_CC_icon.svg.png" alt="Adobe_Photoshop" height="50" /></a>
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a> 
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a> 
 <a href="https://sass-scss.ru/" target="_blank"><img style="margin: 30px" src="https://sass-scss.ru/assets/img/logos/logo-b6e1ef6e.svg" alt="Sass" height="50" /></a>
